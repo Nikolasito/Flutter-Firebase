@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "59740941046",
+    "project_id": "sincronizacion-a454f",
+    "storage_bucket": "sincronizacion-a454f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59740941046:android:2d258beee4eccd7fef1ad7",
+        "android_client_info": {
+          "package_name": "com.example.sincro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59740941046-7kffbmph1sh4hlapagl8qh2jmolto43l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8GNAjQghsyZPGWl5ZJKoTqCmIHMsppcQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59740941046-7kffbmph1sh4hlapagl8qh2jmolto43l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
